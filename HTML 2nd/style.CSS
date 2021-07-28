@@ -1,0 +1,27 @@
+#apps{
+width: 100%;
+height: 600px;
+background-image: url(https://images.idgesg.net/images/article/2020/07/apple_silicon_3rd-party_2020_06_22_2400x1600-100851826-large.jpg)
+}
+body{
+    text-align: center;
+}
+#games{
+height: 600px;
+width;100%;
+}
+img{
+transition: transform 0.2s;
+}
+img:hover{
+transform: scale(0.9);
+}
+
+#mycarousel{
+    background-color: darkblue;
+}
+
+#mycarousel img{
+    height: 300px;
+    margin-top: 40px;
+}
